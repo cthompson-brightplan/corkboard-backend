@@ -1,0 +1,8 @@
+{
+  "name": "corkboard-backend",
+  "version": "1.0.0",
+  "description": "Backend for HubSpot Corkboard module",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
